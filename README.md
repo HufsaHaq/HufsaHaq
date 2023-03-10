@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting better at backend web development
+- 🔭 I’m currently working on getting better at backend web development + CS50
 - 🌱 I’m currently learning Ruby and JavaScript
 - ✏️ Love maths and solving problems
 - ✨ Confident with Python, C, HTML/CSS
@@ -10,7 +10,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HufsaHaq)](https://github.com/anuraghazra/github-readme-stats)
 
-
+| *Proficent* | *Noivce* |
+| :---: | :---: |
+| Python  | Ruby  |
+| C  | JavaScript  |
+| HTML/CSS  |   |
 <!--
 **HufsaHaq/HufsaHaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
