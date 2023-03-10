@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on getting better at backend web development
+- 🌱 I’m currently learning Ruby and JavaScript
+- ✏️ Love maths and solving problems
+- ✨ Confident with Python, C, HTML/CSS
+
+
+
 <!--
 **HufsaHaq/HufsaHaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
