@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Ruby and JavaScript
 - ✏️ Love maths and solving problems
 - ✨ Confident with Python, C, HTML/CSS
+- 📕 My blog is at https://hufsahaqai.blogspot.com/
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HufsaHaq&theme=dark&background=000000)](https://git.io/streak-stats)
